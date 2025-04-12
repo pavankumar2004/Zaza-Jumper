@@ -2,10 +2,10 @@
 
 **Zaza Jumper** is a chaotic cube-hopping adventure where gravity is your frenemy and platforms exist purely to humble you.  
 You play as **Zaza** — a brave, bouncy block with dreams of vertical greatness.  
-Leap, flop, and fall with style in this physics-defying platformer made entirely with [Three.js](https://threejs.org/) and the tears of debugging.
+Leap, flop, and fall with style in this physics-defying platformer made entirely with [Three.js](https://threejs.org/) 
 
 
-[](https://tenor.com/bbbSg.gif)
+[meme](https://tenor.com/bbbSg.gif)
 
 ## 🚀 Getting Started
 
